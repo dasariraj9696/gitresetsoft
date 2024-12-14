@@ -1,0 +1,2 @@
+# gitresetsoft
+git reset soft
